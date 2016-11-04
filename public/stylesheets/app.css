@@ -1,0 +1,20 @@
+#home-button {
+  font-size: 36px;
+  font: Arial, sans-serif;
+  color: purple;
+}
+
+.man {
+  width: 75%;
+  margin-left: 10px;
+}
+
+h1 {
+  margin-left: 10px;
+  font: Arial, sans-serif;
+  color: green;
+}
+
+h3 {
+  color: green;
+}
